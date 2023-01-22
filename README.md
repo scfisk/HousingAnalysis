@@ -7,7 +7,7 @@ Real estate and home prices are things that are constantly on my mind as I try t
 estate portfolio. Having quick access to home prices by city is useful in making future plans. This
 program allows me to analyze the data for patterns and thereby better understand house prices.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qgZZA-0HFN0)
 
 # Data Analysis Results
 1. Which cities can the average american afford, based off an average annual income of 54,000 
