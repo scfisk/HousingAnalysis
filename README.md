@@ -5,7 +5,9 @@ This dataset lists monthly average home prices in various US cities from 2008 to
 
 Real estate and home prices are things that are constantly on my mind as I try to build up a real
 estate portfolio. Having quick access to home prices by city is useful in making future plans. This
-program allows me to analyze the data for patterns and thereby better understand house prices.
+program allows me to analyze the data for patterns and thereby better understand house prices. I 
+can use this information and cross-reference it with other data from the time period to draw 
+conclusions about the housing market in general and make predicitons for the future.
 
 [Software Demo Video]([https://youtu.be/qgZZA-0HFN0](https://youtu.be/qSQuszIbzCI))
 
